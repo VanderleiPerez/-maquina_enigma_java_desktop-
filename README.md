@@ -6,14 +6,14 @@
 ### Inicio
 <img src="https://i.postimg.cc/ tTRK0hzF/Inicio .png" width="700"/>
 
-### Encriptar
+### Encriptar texto
 <ul>
   <li>Texto a encriptar: VANDERLEI
 </li>  
 </ul>
 <img src="https://i.postimg.cc/j2wkKvnn/Encriptar.jpg" width="700"/>
 
-### Desencriptar
+### Desencriptar texto
 <ul>
   <li>Texto a desencriptar: HTACDNBQY
 </li>  
