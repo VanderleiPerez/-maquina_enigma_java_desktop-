@@ -3,17 +3,17 @@
   <li>Aplicación de escritorio para encriptar y desencriptar texto | Java 8 GUI.</li>  
 </ul>
 
-### Inicio
+### INICIO
 <img src="https://i.postimg.cc/ tTRK0hzF/Inicio .png" width="700"/>
 
-### Encriptar texto
+### ENCRIPTAR TEXTO
 <ul>
   <li>Texto a encriptar: VANDERLEI
 </li>  
 </ul>
 <img src="https://i.postimg.cc/j2wkKvnn/Encriptar.jpg" width="700"/>
 
-### Desencriptar texto
+### DESENCRIPTAR
 <ul>
   <li>Texto a desencriptar: HTACDNBQY
 </li>  
