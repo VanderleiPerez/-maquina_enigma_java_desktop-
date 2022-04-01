@@ -13,7 +13,7 @@
 </ul>
 <img src="https://i.postimg.cc/j2wkKvnn/Encriptar.jpg" width="700"/>
 
-### DESENCRIPTAR
+### DESENCRIPTAR TEXTO
 <ul>
   <li>Texto a desencriptar: HTACDNBQY
 </li>  
